@@ -21,7 +21,7 @@ def pregunta_01():
 
     # Imprima los nombres de la variable target del dataset
 
-    print(digits.target)
+    print(digits.target_names)
 
     # Imprima las dimensinoes de matriz de datos
     print(digits.data.shape)
